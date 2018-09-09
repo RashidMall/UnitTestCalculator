@@ -1,3 +1,4 @@
+Exercice 1
 Bonjour Jim,   
 Votre mission, si vous l'acceptez (et même si vous ne l'acceptez pas) sera de reconstituer le code PHP demandé.   
 Pour cela, créez votre fichier PHP dans le dossier src en fonction de ce qui se trouve dans le dossier tests.   
@@ -6,7 +7,7 @@ https://media.giphy.com/media/wQCKF87K9k6kw/giphy.gif
 
 
 
-##Nombre mystère##
+Exercice 2 ##Nombre mystère##
 Il faut deviner le nombre choisi par l'ordinateur
 
 Choisir un nombre entre 0 et 9
