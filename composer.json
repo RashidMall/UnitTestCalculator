@@ -1,0 +1,14 @@
+{
+    "name": "ra/unit-test-calculator",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "RashidMall",
+            "email": "mr.mallaev@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
